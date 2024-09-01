@@ -1,5 +1,9 @@
 # GitCloner
 
+Clone github repositories without using git!, only using requests!. We make use of GitHubs API. If you want to clone a private github repository you will need to have a key i.e. GitHub Fine Grained token.
+Here is the reference:
+[fine grained token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) 
+
 ## Effortless Repository Cloning with GitCloner
 
 GitCloner is a Python-based tool that simplifies the process of cloning GitHub repositories, even in environments where Git is not installed. Whether you are working with public or private repositories, GitCloner provides a seamless and secure way to clone repositories using the GitHub API.
