@@ -1,8 +1,9 @@
-# GitCloner
+# <img src="https://github.com/user-attachments/assets/96cebddf-cad9-4333-a827-ad658e69fa0d" width=30 height=30></img> Easy Repository Cloning with GitClonerGitCloner
 
 Clone github repositories without using git!, only using requests!. We make use of GitHubs API. If you want to clone a private github repository you will need to have a key i.e. GitHub Fine Grained token.
 Here is the reference:
 [fine grained token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token) 
+
 
 ## Easy Repository Cloning with GitCloner
 
