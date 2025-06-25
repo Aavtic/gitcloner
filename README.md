@@ -1,3 +1,5 @@
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+
 # <img src="https://github.com/user-attachments/assets/96cebddf-cad9-4333-a827-ad658e69fa0d" width=30 height=30></img> Easy Repository Cloning with GitClonerGitCloner
 
 Clone github repositories without using git!, only using requests!. We make use of GitHubs API. If you want to clone a private github repository you will need to have a key i.e. GitHub Fine Grained token.
